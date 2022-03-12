@@ -1,0 +1,19 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    font-weight: 300;
+    font-size: 40px;
+    letter-spacing: 2px;
+    color: blue;
+}
+p{
+    font-size: 18px;
+    letter-spacing: 2px;
+    line-height: 22px;
+    margin: 2rem 0;
+    color:red;
+}
+table{
+    background-color:lightskyblue;
+}
